@@ -24,6 +24,6 @@
 
 ## LINKS
 
-[AWS Documentação](https://docs.aws.amazon.com/)](https://docs.aws.amazon.com/)
+[AWS Documentação](https://docs.aws.amazon.com/)
 
-[NEXA](https://www.nexaresources.com/)(https://www.nexaresources.com/)
+[NEXA](https://www.nexaresources.com/)
