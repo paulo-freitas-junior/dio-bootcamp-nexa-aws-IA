@@ -85,5 +85,3 @@ def detect_labels(image_path):
 
 # Testando com uma imagem detect_labels('imagem.jpg')
 ```
-
-Informação criada usando [ChatGPT](https://www.chatgpt.com)
