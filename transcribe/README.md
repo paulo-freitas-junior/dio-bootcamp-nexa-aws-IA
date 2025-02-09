@@ -85,5 +85,3 @@ def transcribe_audio(job_name, audio_file_uri):
 # Testando com um arquivo no S3
 transcribe_audio('meu_job', 's3://meu-bucket/meuarquivo.mp3')
 ```
-
-Informação criada usando [ChatGPT](https://www.chatgpt.com)
