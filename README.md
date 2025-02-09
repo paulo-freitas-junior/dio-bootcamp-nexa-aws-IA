@@ -27,3 +27,5 @@
 [AWS Documentação](https://docs.aws.amazon.com/)
 
 [NEXA](https://www.nexaresources.com/)
+
+[DIO](https://www.dio.me/)
