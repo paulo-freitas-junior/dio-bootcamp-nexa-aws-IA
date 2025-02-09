@@ -80,5 +80,3 @@ def list_sagemaker_models():
 # Executando a função
 list_sagemaker_models()
 ```
-
-Informação criada usando [ChatGPT](https://www.chatgpt.com)
