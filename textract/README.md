@@ -88,5 +88,3 @@ def extract_text_from_image(image_path):
 # Testando com uma imagem
 extract_text_from_image('documento.jpg')
 ```
-
-Informação criada usando [ChatGPT](https://www.chatgpt.com)
